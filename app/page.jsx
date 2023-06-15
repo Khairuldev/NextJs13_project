@@ -21,4 +21,4 @@ const Home = () => {
 
 export default Home;
 
-// nextjs13
+// build aplication with next js 13
